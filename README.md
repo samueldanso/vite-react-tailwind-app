@@ -1,1 +1,1 @@
-# vite-react-tailwind-app
+# vite-react-tailwind-starter-template
