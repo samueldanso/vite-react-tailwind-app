@@ -1,6 +1,6 @@
 # Vite + React + TailwindCSS Starter Template
 
-This is a simple and minimalistic Vite, React and TailwindCSS and boilerplate template with all the starter files and dependencies already setup and ready for you to use.
+This is a simple and minimalistic Vite, React and TailwindCSS boilerplate template with all the starter files and dependencies already setup and ready for you to use.
 # Tools
 
 - Vite
@@ -21,10 +21,12 @@ This is a simple and minimalistic Vite, React and TailwindCSS and boilerplate te
  npm install 
  yarn install
 ```
+
 3. Start development server
 ```
 npm run dev
 ```
 
-## Using Vite + React + TailwindCSS
-You can start editing the page by modifying src/App.jsx.
+4. You can start editing the page by modifying src/App.jsx.
+
+*Feel free to use this as a template for your portfolio if you like it!*
