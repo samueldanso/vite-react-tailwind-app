@@ -1,7 +1,7 @@
 # Vite + React + TailwindCSS Starter Template
 
 This is a simple and minimalistic Vite, React and TailwindCSS boilerplate template with all the starter files and dependencies already setup and ready for use.
-# Tools
+## Tools
 
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
