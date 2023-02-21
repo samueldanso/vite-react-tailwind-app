@@ -13,7 +13,6 @@ This is a simple and minimalistic Vite, React and TailwindCSS boilerplate templa
  
 ```sh
  git clone https://github.com/samueldanso/vite-react-tailwind-app
- cd vite-react-tailwind-app
  ```
 
 2. Change into the directory and install dependencies
@@ -33,4 +32,4 @@ npm run dev
 4. You can start editing the page by modifying src/App.jsx.
    
 
-Feel free to use this as a template for your portfolio if you like it!*
+Feel free to use this as a template for your portfolio if you like it!
